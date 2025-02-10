@@ -1,6 +1,6 @@
-# Custom Debug Macro
+### Custom Debug Macro
 
-A simple macro for debugging that I created to learn more about derive macros.
+A simple macro for debugging supporting custom attributes to enhance debugging output.
 
 Example Usage:
 
