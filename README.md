@@ -1,7 +1,5 @@
 ### Custom Debug Macro
 
-A simple macro for debugging supporting custom attributes to enhance debugging output.
-
 Example Usage:
 
 ```Rust
