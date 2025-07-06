@@ -26,5 +26,4 @@ fn main() {
     }
 
     assert_debug::<Wrapper<Id>>();
-
 }
